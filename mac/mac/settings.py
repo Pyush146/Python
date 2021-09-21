@@ -25,7 +25,7 @@ SECRET_KEY = 'm!844@dp34+oih4g1i!a3mt#(mwsr+*g-p#v4!$3m6f=a2k@=r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','mac-commerce.herokuapp.com']
 
 
 # Application definition
